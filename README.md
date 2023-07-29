@@ -2,8 +2,8 @@
 
 ## Project of a modern online store FitsOnYou with builded-in video-chat with a store advisor
 
-Project made by Student NCI
-Student ID: x20113561
+#### Project made by Student NCI
+#### Student ID: x20113561
 ---
 # Run Project
 1. Install SQL Server 2022 Express Edition
