@@ -1,6 +1,6 @@
 # FitsOnYou
 
-## Project of a modern online store FitsOnYou with builded-in video-chat with a store advisor
+## Project of a modern online store FitsOnYou with builded-in video-chat to communiate with a store advisor
 
 #### Project made by Student NCI
 #### Student ID: x20113561
